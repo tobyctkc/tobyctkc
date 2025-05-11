@@ -1,16 +1,43 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Tobias Settecase
 
-<!--
-**tobyctkc/tobyctkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería en Sistemas**  
+💻 Programador **junior** apasionado por la tecnología y el desarrollo de software  
+📍 Desde Argentina 🇦🇷  
+🌱 Siempre aprendiendo algo nuevo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💼 Tecnologías que uso
+
+- 🐍 Python
+- ☕ Java
+- 🖥️ PHP
+- 🗃️ MySQL
+- 🌐 HTML, CSS y JavaScript
+- 🧰 Git & GitHub
+
+---
+
+### 🚀 Proyectos en los que estoy trabajando
+
+- 📦 Sistema de gestión para farmacia
+- 🧠 Aplicaciones con PyQt5
+- 🌐 Sitios web con PHP y Bootstrap
+
+---
+
+### 📫 ¿Querés contactarme?
+
+Podés escribirme por [LinkedIn](www.linkedin.com/in/tobias-settecase-53bb38204) o dejarme un mensaje por acá. ¡Siempre abierto a colaborar y aprender juntos!
+
+---
+
+### 📊 GitHub Stats
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+
+---
+
+> *"El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."* – Cory House
+
 -->
