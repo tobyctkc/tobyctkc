@@ -21,17 +21,17 @@
 
 ### 🚀 Proyectos en los que trabajé
 
-- 💊 **Sistema en Laravel** para controlar qué medicamentos retiran mensualmente los clientes fijos de una farmacia  
-- 🚗 **Sistema en Java (JFrames)** para gestión de playa de estacionamiento  
+- 💊 **Sistema en Laravel** para controlar qué medicamentos retiran mensualmente los clientes fijos de una farmacia
+- 📦 **Sistema de gestión** para una farmacia utilizando **Python y PyQt5**
+- 🚗 **Sistema en Java** para gestión de playa de estacionamiento  
 - 🏘️ **App de ingreso/egreso de vehículos** en barrios privados con **Java Servlets**  
-- 🧠 Aplicaciones con **PyQt5** para escritorio  
 - 🌐 Sitios web dinámicos con **PHP**, **Bootstrap** y **Tailwind CSS**
 
 ---
 
 ### 📫 ¿Querés contactarme?
 
-Podés escribirme por 📎 [LinkedIn - Tobías Settecase](https://www.linkedin.com/in/tobias-settecase-53bb38204) o dejarme un mensaje por acá. ¡Siempre abierto a colaborar y aprender juntos!
+Podés escribirme por [LinkedIn - Tobías Settecase](https://www.linkedin.com/in/tobias-settecase-53bb38204) o dejarme un mensaje por acá. ¡Siempre abierto a colaborar y aprender juntos!
 
 ---
 
