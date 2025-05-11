@@ -14,6 +14,7 @@
 - 🖥️ PHP
 - 🗃️ MySQL
 - 🌐 HTML, CSS y JavaScript
+- 🎨 Bootstrap, Tailwind CSS, Tabler
 - 🧰 Git & GitHub
 
 ---
@@ -22,7 +23,7 @@
 
 - 📦 Sistema de gestión para farmacia
 - 🧠 Aplicaciones con PyQt5
-- 🌐 Sitios web con PHP y Bootstrap
+- 🌐 Sitios web con PHP y Bootstrap/Tailwind
 
 ---
 
