@@ -1,4 +1,4 @@
-### 👋 ¡Hola! Soy [Tu Nombre]
+### 👋 ¡Hola! Soy Tobias Settecase
 
 🎓 Estudiante de **Ingeniería en Sistemas**  
 💻 Programador **junior** apasionado por la tecnología y el desarrollo de software  
